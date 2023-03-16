@@ -1,1 +1,1 @@
-select current_timestamp();
+select current_timestamp() as present_time;
